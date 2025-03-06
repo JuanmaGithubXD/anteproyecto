@@ -1,4 +1,4 @@
-# Anteproyecto: **GeekMaster - Plataforma de Adivinación Interactiva**
+# Anteproyecto: **GeekMaster**
 
 **Autor del proyecto**: Juan Manuel Toro Caballero  
 
