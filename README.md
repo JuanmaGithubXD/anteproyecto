@@ -35,6 +35,8 @@ En general la página sirve como entretenimiento y a la vez como una forma de ve
 ---
 
 ## Herramientas que tendré que utilizar ("Qué necesito")
+- **Hardware**:
+  - **Ordenador**: Utilizaré mi ordenador personal
 - **Software**:
   - **Backend**: Django
   - **Frontend**: Bootstrap, JavaScript, HTML y CSS
